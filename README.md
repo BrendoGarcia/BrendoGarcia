@@ -7,15 +7,15 @@
 
  
 
-:computer: I'm developer junior!
+:computer: Estudante da Faculdade Senac de Pernambuco, Matriculado pelo Embarque Digital!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Pernambuco - Recife.
 
-:books: I'm currently learning C, HTML, CSS and Mysql.
+:books: Estou estudando Java, C, HTML, CSS e Mysql.
 
-:outbox_tray: 2023 Goals: create a new project and find a new job
+:outbox_tray: Em 2023 Pretendo trabalhar com programação e criar novos projetos na área.
 
-## About me
+## Sobre Mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/BrendoGarcia)
 
