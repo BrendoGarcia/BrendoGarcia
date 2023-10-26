@@ -25,6 +25,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoGarcia&hide_progress=true)
 
-- Thanks for visiting.
+- Obrigado 
 
 - Enjoy it!! o/
