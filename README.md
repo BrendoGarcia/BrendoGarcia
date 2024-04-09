@@ -2,7 +2,7 @@
 
  
 
-## I'm Brendo Garcia da Silva!
+## Olá Sou Brendo Garcia da Silva!
 
 
  
@@ -11,7 +11,7 @@
 
 :house_with_garden: Pernambuco - Recife.
 
-:books: Estou estudando Java, C, HTML, CSS e Mysql.
+:books: Estou estudando Java, JavaScript, Ruby, C, HTML, CSS e SQL.
 
 :outbox_tray: Em 2023 Pretendo trabalhar com programação e criar novos projetos na área.
 
