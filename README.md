@@ -23,7 +23,8 @@
 
 ![BrendoGarcia GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendoGarcia&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoGarcia&hide_progress=true)
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrendoGarcia&layout=compact&hide_border=true&theme=dracula">
+
 
 - Obrigado 
 
