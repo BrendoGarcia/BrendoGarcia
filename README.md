@@ -11,7 +11,7 @@
 
 :house_with_garden: Pernambuco - Recife.
 
-:books: Estou estudando Java, JavaScript, Ruby, C, HTML, CSS e SQL.
+:books: DevJunior Java(SpringBoot), JavaScript, Ruby, C, HTML, CSS e SQL.
 
 :outbox_tray: Em 2023 Pretendo trabalhar com programação e criar novos projetos na área.
 
