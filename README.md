@@ -13,7 +13,7 @@
 
 :books: DevJunior Java(SpringBoot), JavaScript, Ruby, C, HTML, CSS e SQL.
 
-:outbox_tray: Em 2023 Pretendo trabalhar com programação e criar novos projetos na área.
+:outbox_tray: Em 2024 Pretendo trabalhar com programação e criar novos projetos na área.
 
 ## Sobre Mim
 
